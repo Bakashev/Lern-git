@@ -1,6 +1,3 @@
 This is first version. 
 Create on the GetHub.
 Next enter in tht line
-
-New line one
-New line two
