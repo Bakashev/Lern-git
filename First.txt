@@ -4,5 +4,3 @@ Next enter in tht line
 
 New line one
 New line two
-q
-}}}}}}}}}}
